@@ -4,8 +4,9 @@ Repository untuk menyimpan alur cerita saat PKL
 ## H2
 ### H3
 
-- Bahasa C
 - HTML & CSS
   *Bootstrap
 - JavaScript
   NodeJs
+- PHP
+  *Laravel
